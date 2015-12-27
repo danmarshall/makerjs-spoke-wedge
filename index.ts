@@ -52,3 +52,5 @@ class SpokeWedge implements MakerJs.IModel {
 
     }
 }
+
+module.exports = SpokeWedge;

@@ -1,6 +1,6 @@
 {
   "name": "makerjs-spoke-wedge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Creates the shape of the negative space between spokes in a wheel. For Maker.js",
   "main": "index.js",
   "scripts": {

@@ -39,3 +39,4 @@ var SpokeWedge = (function () {
     }
     return SpokeWedge;
 })();
+module.exports = SpokeWedge;
